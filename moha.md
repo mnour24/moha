@@ -2,6 +2,6 @@
 
 mermai dseqence
 ```
-this my first publish on githubgit.
+this my first publish on githubgit
 
 ```
